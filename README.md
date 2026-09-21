@@ -6,7 +6,7 @@
 - Strong interest in game development and design ⋆｡°✩
 - I love to create!
 - Some of my hobbies outside programming: art, music and playing video games!
-- [My Portfolio](hanadoan.com)
+- [My Portfolio](https://hanadoan.com/)
 - My art account:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seratopia_)
 
